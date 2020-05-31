@@ -1,0 +1,9 @@
+\#*#
+*~
+.#*
+
+custom-file.el
+transient/*
+elpa
+network-security.data
+url/*
